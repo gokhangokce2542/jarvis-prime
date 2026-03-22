@@ -7,7 +7,7 @@ import json
 import time
 
 # --- 1. ANAHTARLAR ---
-GOOGLE_API_KEY = "AIzaSyCZvHm0NUS5F2zmbrBhZYbHmP2grScD7Sc"
+GOOGLE_API_KEY = "AIzaSyB82uSgoPixO0xcuWmWxztlU0s0bIGO1Xc"
 ELEVENLABS_API_KEY = "sk_bf3c6c09abbec997df73b1edeaaf0189b258428d57884c10"
 
 genai.configure(api_key=GOOGLE_API_KEY)
